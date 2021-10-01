@@ -1,0 +1,13 @@
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day4\PigLatinYB\PigLatinYB\bin\Debug\netcoreapp3.1\PigLatinYB.exe
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day4\PigLatinYB\PigLatinYB\bin\Debug\netcoreapp3.1\PigLatinYB.deps.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day4\PigLatinYB\PigLatinYB\bin\Debug\netcoreapp3.1\PigLatinYB.runtimeconfig.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day4\PigLatinYB\PigLatinYB\bin\Debug\netcoreapp3.1\PigLatinYB.runtimeconfig.dev.json
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day4\PigLatinYB\PigLatinYB\bin\Debug\netcoreapp3.1\PigLatinYB.dll
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day4\PigLatinYB\PigLatinYB\bin\Debug\netcoreapp3.1\PigLatinYB.pdb
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day4\PigLatinYB\PigLatinYB\obj\Debug\netcoreapp3.1\PigLatinYB.csproj.AssemblyReference.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day4\PigLatinYB\PigLatinYB\obj\Debug\netcoreapp3.1\PigLatinYB.AssemblyInfoInputs.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day4\PigLatinYB\PigLatinYB\obj\Debug\netcoreapp3.1\PigLatinYB.AssemblyInfo.cs
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day4\PigLatinYB\PigLatinYB\obj\Debug\netcoreapp3.1\PigLatinYB.csproj.CoreCompileInputs.cache
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day4\PigLatinYB\PigLatinYB\obj\Debug\netcoreapp3.1\PigLatinYB.dll
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day4\PigLatinYB\PigLatinYB\obj\Debug\netcoreapp3.1\PigLatinYB.pdb
+C:\Users\ybeea\OneDrive\Desktop\GrandCircus\Week 1\Day4\PigLatinYB\PigLatinYB\obj\Debug\netcoreapp3.1\PigLatinYB.genruntimeconfig.cache
